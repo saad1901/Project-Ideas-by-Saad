@@ -135,7 +135,7 @@ Faithly is not just an app—it's a habit, a helper, a moment of grace each day.
 
 ## 📩 Contact & Feedback
 
-Have ideas or want to contribute? Reach out at **faithly.dev@gmail.com** or open an issue/pull request.
+Have ideas or want to contribute? Reach out at **saadiqbal1921@gmail.com** or open an issue/pull request.
 
 ---
 
