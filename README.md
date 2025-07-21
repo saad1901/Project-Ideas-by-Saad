@@ -14,7 +14,7 @@ This repository contains a collection of **unique project ideas** conceptualized
 
 There are a few reasons I’ve chosen to keep these as ideas rather than full-fledged projects (for now):
 
-- 📱 I currently **lack specific development expertise**, such as **mobile app development (e.g., APK building, Flutter, React Native)** or backend infrastructure.
+- 📱 I currently **lack specific development expertise**, such as **mobile app development (e.g., APK building, Flutter, React Native)**.
 - 🔄 Some projects may contain **logic I’ve already explored elsewhere**, and repeating them may not significantly enhance my skillset.
 - 🧠 Other ideas are **time-intensive** or outside the immediate alignment with my current learning goals or tech stack.
 - 🧪 I use this repository as a sandbox of **conceptual creativity**, which has value in itself.
